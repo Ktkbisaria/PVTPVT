@@ -10,7 +10,7 @@ import FramerWrapper from "@/components/FramerWrapper";
 export const siteConfig = {
   name: "Kartikay Bisaria",
   description: "I am a Passionate Software Developer",
-  ogImage: "",
+  ogImage: "F:\Portfolio medium\Portfolio\public\og-image.png",
   url: "https://mdTaquiImam.vercel.app",
 }
 export default function Home() {

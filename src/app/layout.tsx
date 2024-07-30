@@ -28,11 +28,11 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Taqui Imam",
-      url: "https://github.com/taqui-786",
+      name: "Kartikay Bisaria",
+      url: "",
     },
   ],
-  creator: "Taqui imam",
+  creator: "Kartikay Bisaria",
 
   openGraph: {
     type: "website",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [`${siteConfig.url}/og-image.png`],
-    creator: "@Taquiimam14",
+    creator: "Kartikay Bisaria",
   },
   icons: {
     icon: "/favicon.ico",
