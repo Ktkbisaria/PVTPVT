@@ -10,14 +10,14 @@ const projectsPage = () => {
     {
       title: "Green Trace - A web application",
       description:
-        "Green Trace is  ",
+        "Green Trace is web application designed to promote sustainability within communities with features like carbon footprint calculator, product recommendation, carpooling etc ",
       tags: ["Redis", "Authjs", "Typescript", "Nextjs"],
       link: "https://github.com/taqui-786/project-friendz",
     },
     {
-      title: "itZmyLink- One Page many Links",
+      title: "ZenZone ",
       description:
-        "itZmyLink is a simple platform where user can create a personalized page to showcase all your social media profiles in one place. ",
+        "ZenZone is a web app to help people curb procastination with self assigned challenges",
       tags: ["Nextjs", "Typescript", "Shadcn Ui"],
       link: "https://github.com/taqui-786/itZmyLink",
     },
