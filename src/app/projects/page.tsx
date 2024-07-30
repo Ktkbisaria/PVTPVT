@@ -11,65 +11,29 @@ const projectsPage = () => {
       title: "Green Trace - A web application",
       description:
         "Green Trace is web application designed to promote sustainability within communities with features like carbon footprint calculator, product recommendation, carpooling etc ",
-      tags: ["Redis", "Authjs", "Typescript", "Nextjs"],
+      tags: ["HTML", "JavaScript", "Leaflet", "Selenium"],
       link: "https://github.com/taqui-786/project-friendz",
     },
     {
       title: "ZenZone ",
       description:
         "ZenZone is a web app to help people curb procastination with self assigned challenges",
-      tags: ["Nextjs", "Typescript", "Shadcn Ui"],
+      tags: ["Reactjs", "Nodejs", "MongoDB"],
       link: "https://github.com/taqui-786/itZmyLink",
     },
     {
-      title: "GitEstimate- Github estimate worth generator",
+      title: " Developing Countermeasures for Image-Based CAPTCHAs",
       description:
-        "GitEstimate is a simple fun tool where user can generate their github estimate worth card just by entering their github username. ",
-      tags: ["Nextjs", "Typescript", "Shadcn Ui"],
+        "Write Description please",
+      tags: ["Tensorflow", "Keras", "OpenCV"],
       link: "https://github.com/taqui-786/GitEstimate",
     },
     {
-      title: "Mixcn-ui- Reusable components for Nextjs",
+      title: "Gym - Native App",
       description:
-        "This is Nextjs app with a Collection of Nextjs Components - (Currently under Devlelopment) ",
+        "This is a React Native App that was made to handle the services offered by gym and be available to various gyms according to their preference.",
       tags: ["Nextjs", "Shadcnui", "Npx","Library"],
       link: "https://mixcn-ui.vercel.app",
-    },
-    {
-      title: "Rupeespot- All deals Product in one place",
-      description:
-        "This is a free tool to check price history charts for millions of products for popular Indian stores such as Amazon and Flipkart. ",
-      tags: ["Nextjs", "Freelancing", "MySQL"],
-      link: "https://rupeespot.com/",
-    },
-    
-    {
-      title: "KryptoKapital- Investing in Cryptocurreny",
-      description:
-        "This is a platform for learning about cryptocurrency with many tools and festures. It is very big project. ",
-      tags: ["Nextjs", "Freelancing", "Supabase"],
-      link: "https://devkryptokapital.netlify.app/",
-    },
-    {
-      title: "ChatApp- Simple instagram clone",
-      description:
-        "ChatApp is similar to instagram, you can create, edit, delete, like,comment, post and  Follow, unfollow users",
-      tags: ["Reactjs", "Javascript"],
-      link: "https://github.com/taqui-786/chatapp-api",
-    },
-    {
-      title: "Devletter - A Newsletter for devs",
-      description:
-        "Devletter ia a newsletter subscribing single page app made with Nextjs and Tailwindcss.",
-      tags: ["Nextjs", "Tailwindcss"],
-      link: "https://github.com/taqui-786/Devletter",
-    },
-    {
-      title: "CrouMaker - A Crousal Maker App",
-      description:
-        "Crousal Maker is a tool with in-built crousals templates edit and download it in any format.",
-      tags: ["Nextjs", "jsPDF", "html2canvas", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/crousal-maker",
     },
   ];
 
