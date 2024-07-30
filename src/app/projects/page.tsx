@@ -8,9 +8,9 @@ const projectsPage = () => {
   // PROJECTS DATA
   const Projects = [
     {
-      title: "FriendZ - A social media Platform",
+      title: "Green Trace - A web application",
       description:
-        "FriendZ is a social media app made with modern tech stacks such as redis, Authjs etc. A user can Create, delete, like, comment Post. ",
+        "Green Trace is  ",
       tags: ["Redis", "Authjs", "Typescript", "Nextjs"],
       link: "https://github.com/taqui-786/project-friendz",
     },
