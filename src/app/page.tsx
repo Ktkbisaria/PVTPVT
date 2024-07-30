@@ -8,9 +8,9 @@ import DownLoadResumeBtn from "@/components/DownLoadResumeBtn";
 import FramerWrapper from "@/components/FramerWrapper";
 
 export const siteConfig = {
-  name: "Md Taqui Imam",
+  name: "Kartikay Bisaria",
   description: "I am a Passionate Software Developer",
-  ogImage: "https://mdTaquiImam.vercel.app/og-image.png",
+  ogImage: "",
   url: "https://mdTaquiImam.vercel.app",
 }
 export default function Home() {
