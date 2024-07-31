@@ -22,13 +22,6 @@ const projectsPage = () => {
       link: "https://github.com/taqui-786/itZmyLink",
     },
     {
-      title: " Developing Countermeasures for Image-Based CAPTCHAs",
-      description:
-        "Write Description please",
-      tags: ["Tensorflow", "Keras", "OpenCV"],
-      link: "https://github.com/taqui-786/GitEstimate",
-    },
-    {
       title: "Gym - Native App",
       description:
         "This is a React Native App that was made to handle the services offered by gym and be available to various gyms according to their preference.",

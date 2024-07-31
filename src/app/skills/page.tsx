@@ -14,6 +14,13 @@ import tailwind from '../../../public/tailwindcss.png'
 import github from '../../../public/github.png'
 import vscode from '../../../public/vscode.png'
 import FramerWrapper from "@/components/FramerWrapper";
+import ansible from "../../../public/ansible.jpeg"
+import docker from "../../../public/docker.png"
+import jenkins from "../../../public/jenkins.png"
+import terraform from "../../../public/terraform.png"
+import aws from "../../../public/aws.png"
+
+
 const skillPage = () => {
 
     const language = [
@@ -26,10 +33,11 @@ const skillPage = () => {
     const framework = [
         {alt:"react", img:react},
         {alt:"nextjs", img:nextjs},
-        {alt:"scss", img:scss},
-        {alt:"tailwind", img:tailwind},
         {alt:"github", img:github},
-        {alt:"vscode", img:vscode},
+        {alt:"ansible", img:ansible},
+        {alt:"aws", img:aws},
+        {alt:"jenkins", img:jenkins},
+        
     ]
        
 

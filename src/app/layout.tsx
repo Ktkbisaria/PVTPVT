@@ -71,6 +71,7 @@ export default function RootLayout({
         >
           {/* NAVBAR ->  */}
           <Navbar />
+          
           {children}
         </main>
       </body>

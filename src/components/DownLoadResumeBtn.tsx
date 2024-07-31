@@ -12,7 +12,7 @@ function DownLoadResumeBtn() {
       <Download className="mx-1" />
       Download Resume
     </Link> */}
-    <HackerBtn label='Download Resume' />
+    <HackerBtn label='My Resume' />
   </div>
   )
 }

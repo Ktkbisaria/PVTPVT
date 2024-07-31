@@ -11,7 +11,7 @@ export const siteConfig = {
   name: "Kartikay Bisaria",
   description: "I am a Passionate Software Developer",
   ogImage: "F:\Portfolio medium\Portfolio\public\og-image.png",
-  url: "https://mdTaquiImam.vercel.app",
+  url: "",
 }
 export default function Home() {
   return (
@@ -19,9 +19,12 @@ export default function Home() {
       {/* LEFT SIDE  */}
       <FramerWrapper className=" h-full w-auto flex flex-col justify-start gap-4" y={0} x={-100}>
         <HeroTexts />
+        
+        
         <div className="h-fit w-full p-4 flex gap-3">
           <SocialLinks />
         </div>
+        
        <DownLoadResumeBtn/>
       </FramerWrapper>
       {/* RIGHT SIDE image  */}
