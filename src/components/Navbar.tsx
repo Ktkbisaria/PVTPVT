@@ -25,12 +25,13 @@ import { usePathname } from "next/navigation";
 const Navbar = () => {
   const items = [
     { name: "Home", icon: <Home /> , link: "/"},
+    { name: "about", icon: <User2 />,link: "/about" },
     { name: "skills", icon: <Lightbulb />, link: "/skills" },
     { name: "projects", icon: <Layers />, link: "/projects" },
     { name: "work", icon: <Briefcase />, link: "/education" },
     { name: "more", icon: <PackagePlus />, link: "/more" },
-    { name: "about", icon: <User2 />,link: "/about" },
-    { name: "contact", icon: <Phone />, link: "/contact" },
+    
+    //{ name: "contact", icon: <Phone />, link: "/contact" },
   ];
 
   const [scrolling, setScrolling] = useState(false);

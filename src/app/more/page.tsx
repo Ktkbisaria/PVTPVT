@@ -18,7 +18,7 @@ const morePage = () => {
     {
       title: "NA",
       description:
-        "NA ",
+        "Nothing much as of now",
       link: "NA",
     },
     
