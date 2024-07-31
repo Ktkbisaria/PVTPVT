@@ -1,14 +1,16 @@
 import type { Metadata } from "next";
-import {  Poppins, Rubik } from "next/font/google";
+import { Poppins, Rubik } from "next/font/google";
 import "./globals.css";
 import { cn } from "@/lib/utils";
 import Navbar from "@/components/Navbar";
 import { siteConfig } from "./page";
+
 const poppins = Poppins({
   subsets: ["latin"],
   weight: "400",
   variable: "--font-poppins",
 });
+
 const rubik = Rubik({
   subsets: ["latin"],
   weight: "600",
@@ -24,8 +26,7 @@ export const metadata: Metadata = {
   description: siteConfig.description,
 
   // added new keywords for seo
-  keywords: ["hi",
-  ],
+  keywords: ["hi"],
   authors: [
     {
       name: "Kartikay Bisaria",
@@ -65,8 +66,7 @@ export default function RootLayout({
       <body className={`${poppins.variable} ${rubik.variable}`}>
         <main
           className={cn(
-            "flex relative screen break-words min-h-screen items-center justify-between pt-14 pb-4 px-40 max-md:p-4 bg-transparent max-sm:pt-20 bg-[radial-gradient(#2f7df4_1px,transparent_1px)] [background-size:16px_16px]",
-            { "bg-white": "#E6E7EB" }
+            "flex relative screen break-words min-h-screen items-center justify-between pt-14 pb-4 px-40 max-md:p-4 bg-background max-sm:pt-20"
           )}
         >
           {/* NAVBAR ->  */}
