@@ -8,7 +8,7 @@ const SocialLinks = () => {
   const links = [
   
     { name: "Linkedin", link: "https://www.linkedin.com/in/kartikay-bisaria-357999206/", icon: <Linkedin /> },
-    { name: "External", link: "https://tinyurl.com/MdTaquiImam", icon: <ExternalLink /> },
+    { name: "External", link: "", icon: <ExternalLink /> },
   ];
   return (
     <>
