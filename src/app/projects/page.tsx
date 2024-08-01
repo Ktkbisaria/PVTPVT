@@ -12,21 +12,21 @@ const projectsPage = () => {
       description:
         "Green Trace is web application designed to promote sustainability within communities with features like carbon footprint calculator, product recommendation, carpooling etc ",
       tags: ["HTML", "JavaScript", "Leaflet", "Selenium"],
-      link: "",
+      link: "https://github.com/taqui-786/project-friendz",
     },
     {
       title: "ZenZone ",
       description:
         "ZenZone is a web app to help people curb procastination with self assigned challenges",
       tags: ["Reactjs", "Nodejs", "MongoDB"],
-      link: "",
+      link: "https://github.com/taqui-786/itZmyLink",
     },
     {
       title: "Gym - Native App",
       description:
         "This is a React Native App that was made to handle the services offered by gym and be available to various gyms according to their preference.",
       tags: ["Nextjs", "Shadcnui", "Npx","Library"],
-      link: "",
+      link: "https://mixcn-ui.vercel.app",
     },
   ];
 
@@ -41,9 +41,12 @@ const projectsPage = () => {
         <Heading>My Projects</Heading>
         <FramerWrapper y={0} x={200}>
           <p className=" font-poppins text-lg w-full text-primary max-sm:text-base">
-          From websites that practically dance across your screen to backend systems smoother than a jazz playlist,
-           I've got a little bit of everything.          </p>
-
+            I love to Build Cool Projects. Here, you&#x27;ll find a curated
+            collection of my creative endeavors and technical projects. Each
+            piece represents a journey of innovation, problem-solving, and
+            continuous learning. Feel free to explore this showcase of my
+            passion and expertise in action.
+          </p>
         </FramerWrapper>
       </div>
 
