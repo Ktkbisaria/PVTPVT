@@ -41,8 +41,9 @@ const projectsPage = () => {
         <Heading>My Projects</Heading>
         <FramerWrapper y={0} x={200}>
           <p className=" font-poppins text-lg w-full text-primary max-sm:text-base">
-          From websites that practically dance across your screen to backend systems
-           smoother than a jazz playlist, I've got a little bit of everything.&#x27;
+            I love to Build Cool Projects. Here, you&#x27;ll find a curated selection
+            of websites that practically dance across your screen to backend systems 
+            smoother than a jazz playlist, I've got a little bit of everything.
           </p>
         </FramerWrapper>
       </div>
