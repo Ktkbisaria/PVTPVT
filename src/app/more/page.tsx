@@ -16,9 +16,9 @@ import FramerWrapper from "@/components/FramerWrapper";
 const morePage = () => {
   const morelink = [
     {
-      title: "NA",
+      title: "Coming Soon",
       description:
-        "Nothing much as of now",
+        "Stay Tuned",
       link: "NA",
     },
     

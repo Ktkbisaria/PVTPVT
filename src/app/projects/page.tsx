@@ -26,7 +26,7 @@ const projectsPage = () => {
       description:
         "This is a React Native App that was made to handle the services offered by gym and be available to various gyms according to their preference.",
       tags: ["React native", "Npx","API's"],
-      link: "Private intern project",
+      link: "",
     },
   ];
 
