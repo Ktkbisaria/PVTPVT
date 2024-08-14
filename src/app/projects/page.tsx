@@ -12,21 +12,21 @@ const projectsPage = () => {
       description:
         "Green Trace is web application designed to promote sustainability within communities with features like carbon footprint calculator, product recommendation, carpooling etc ",
       tags: ["HTML", "JavaScript", "Leaflet", "Selenium"],
-      link: "",
+      link: "https://github.com/Ktkbisaria/Minor-1.git",
     },
     {
       title: "ZenZone ",
       description:
         "ZenZone is a web app to help people curb procastination with self assigned challenges",
       tags: ["Reactjs", "Nodejs", "MongoDB"],
-      link: "",
+      link: "https://github.com/smriti243/ZenZon_Repo",
     },
     {
       title: "Gym - Native App",
       description:
         "This is a React Native App that was made to handle the services offered by gym and be available to various gyms according to their preference.",
-      tags: ["Nextjs", "Shadcnui", "Npx","Library"],
-      link: "",
+      tags: ["React native", "Npx","API's"],
+      link: "Private intern project",
     },
   ];
 
