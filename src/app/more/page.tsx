@@ -27,6 +27,11 @@ const morePage = () => {
         "What’s the Best Way to Evaluate Developers in 2024?",
       link: "https://medium.com/@ktkbisaria100/whats-the-best-way-to-evaluate-developers-in-2024-a6c486199bfd",
     },
+    {
+      title: "Loading...",
+      description:"Coming Soon!!,Stay tuned!!",
+      link: "NA",
+    },
     
   ];
 
