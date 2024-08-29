@@ -16,15 +16,15 @@ import FramerWrapper from "@/components/FramerWrapper";
 const morePage = () => {
   const morelink = [
     {
-      title: "Coming Soon",
+      title: "Rethinking Hiring Practices",
       description:
-        "Stay Tuned",
-      link: "NA",
+        "What’s the Best Way to Evaluate Developers in 2024?",
+      link: "https://medium.com/@ktkbisaria100/whats-the-best-way-to-evaluate-developers-in-2024-a6c486199bfd",
     },
     {
-      title: "Loading...",
-      description:"Coming Soon!!,Stay tuned!!",
-      link: "NA",
+      title: "Balancing Code and Creativity",
+      description:"Navigating the AI-Driven Development Landscape",
+      link: "Nhttps://medium.com/@ktkbisaria100/balancing-code-and-creativity-navigating-the-ai-driven-development-landscape-d8fa6f9fa844",
     },
     
   ];
