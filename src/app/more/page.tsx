@@ -21,6 +21,11 @@ const morePage = () => {
         "Stay Tuned",
       link: "NA",
     },
+    {
+      title: "Loading...",
+      description:"Coming Soon!!,Stay tuned!!",
+      link: "NA",
+    },
     
   ];
 
