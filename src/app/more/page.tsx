@@ -16,16 +16,10 @@ import FramerWrapper from "@/components/FramerWrapper";
 const morePage = () => {
   const morelink = [
     {
-      title: "Balancing Code and Creativity",
+      title: "Coming Soon",
       description:
-        "Navigating the AI-Driven Development Landscape",
-      link: "https://medium.com/@ktkbisaria100/balancing-code-and-creativity-navigating-the-ai-driven-development-landscape-d8fa6f9fa844",
-    },
-    {
-      title: "Rethinking Hiring Practices for Developers",
-      description:
-        "What’s the Best Way to Evaluate Developers in 2024?",
-      link: "https://medium.com/@ktkbisaria100/whats-the-best-way-to-evaluate-developers-in-2024-a6c486199bfd",
+        "Stay Tuned",
+      link: "NA",
     },
     
   ];
