@@ -24,7 +24,7 @@ const morePage = () => {
     {
       title: "Balancing Code and Creativity",
       description:"Navigating the AI-Driven Development Landscape",
-      link: "Nhttps://medium.com/@ktkbisaria100/balancing-code-and-creativity-navigating-the-ai-driven-development-landscape-d8fa6f9fa844",
+      link: "https://medium.com/@ktkbisaria100/balancing-code-and-creativity-navigating-the-ai-driven-development-landscape-d8fa6f9fa844",
     },
     
   ];
