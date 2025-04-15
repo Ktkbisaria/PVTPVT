@@ -8,6 +8,13 @@ const projectsPage = () => {
   // PROJECTS DATA
   const Projects = [
     {
+      title: "MentorE Talk",
+      description:
+        "MentorEx Talk is a platform connecting mentors and students for career guidance, resume reviews, and live sessions with features like scheduling, feedback, and social feed.",
+      tags: ["JavaScript", "Node.js", "React.js", "MongoDB"],
+      link: "https://github.com/Ktkbisaria/desgined-Mentorextalk",
+    },
+    {
       title: "Green Trace - A web application",
       description:
         "Green Trace is web application designed to promote sustainability within communities with features like carbon footprint calculator, product recommendation, carpooling etc ",
@@ -15,7 +22,7 @@ const projectsPage = () => {
       link: "https://github.com/Ktkbisaria/Minor-1.git",
     },
     {
-      title: "ZenZone ",
+      title: "ZenZone",
       description:
         "ZenZone is a web app to help people curb procastination with self assigned challenges",
       tags: ["Reactjs", "Nodejs", "MongoDB"],
@@ -25,11 +32,11 @@ const projectsPage = () => {
       title: "Gym - Native App",
       description:
         "This is a React Native App that was made to handle the services offered by gym and be available to various gyms according to their preference.",
-      tags: ["React native", "Npx","API's"],
+      tags: ["React native", "Npx", "API's"],
       link: "",
     },
   ];
-
+  
   return (
     // PROJECT PAGE
     <div className="h-full w-full relative flex flex-col items-start gap-5 overflow-hidden">
