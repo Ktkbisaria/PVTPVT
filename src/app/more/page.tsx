@@ -16,18 +16,22 @@ import FramerWrapper from "@/components/FramerWrapper";
 const morePage = () => {
   const morelink = [
     {
+      title: "Mounting AWS EFS on Ubuntu",
+      description: "Step-by-step guide to mount an AWS Elastic File System on a Linux instance.",
+      link: "https://medium.com/@ktkbisaria100/mounting-an-aws-efs-elastic-file-system-on-a-linux-ubuntu-instance-5aadc89833ab",
+    },
+    {
       title: "Rethinking Hiring Practices",
-      description:
-        "What’s the Best Way to Evaluate Developers in 2024?",
+      description: "What’s the Best Way to Evaluate Developers in 2024?",
       link: "https://medium.com/@ktkbisaria100/whats-the-best-way-to-evaluate-developers-in-2024-a6c486199bfd",
     },
     {
       title: "Balancing Code and Creativity",
-      description:"Navigating the AI-Driven Development Landscape",
+      description: "Navigating the AI-Driven Development Landscape",
       link: "https://medium.com/@ktkbisaria100/balancing-code-and-creativity-navigating-the-ai-driven-development-landscape-d8fa6f9fa844",
     },
-    
   ];
+
 
   return (
     // ABOUT PAGE
