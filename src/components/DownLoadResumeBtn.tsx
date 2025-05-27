@@ -11,7 +11,7 @@ function DownLoadResumeBtn() {
   return (
     <div className="h-fit w-full mt-2 py-2 px-4">
 <a
-  href="https://drive.google.com/file/d/1H5QASTFkmE1hzp0XdozPZllp61S6982V/view?usp=sharing"
+  href="https://drive.google.com/file/d/1XqBMV7B4izNmmOZvIAsMTN9r_BJZ1Gym/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
 >
